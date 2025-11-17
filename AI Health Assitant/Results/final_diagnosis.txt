@@ -1,0 +1,5 @@
+### Final Diagnosis:
+
+- Panic disorder with recurrent panic attacks: Brief (10–20 min), abrupt episodes of palpitations, chest pain, dyspnea, dizziness, diaphoresis, and “impending doom,” with normal ECG/echo/troponin; history of anxiety and psychologist’s assessment support this.
+- Paroxysmal supraventricular tachycardia (SVT) or symptomatic ectopy: Sudden onset/offset palpitations with weekly episodes not captured on a 24‑h Holter (classic for SVT); PVCs seen on Holter indicate arrhythmic susceptibility and warrant longer event monitoring for symptom–rhythm correlation.
+- Reflux-related esophageal spasm/laryngopharyngeal reflux with possible laryngospasm: Can mimic cardiac chest pain and trigger palpitations or transient dyspnea; fits episodic chest tightness/dyspnea with normal baseline cardiopulmonary tests and is flagged by both cardiology (GERD-related pain) and pulmonology (reflux-triggered airway symptoms).
