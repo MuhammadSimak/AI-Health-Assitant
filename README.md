@@ -13,16 +13,16 @@ In the current version, we use three AI agents (GPT-5), each specializing in a d
 A medical report is passed to all agents, which run in parallel (threading) and return their findings.
 The outputs are then combined and summarized into three possible health issues with reasoning.
 
-AI Agents
-1. Cardiologist Agent
+### AI Agents
 
-Focus: Detect cardiac issues such as arrhythmias or structural abnormalities.
-Recommendations: Cardiovascular testing, monitoring, and management strategies.
-2. Psychologist Agent
+**1. Cardiologist Agent**  
+- *Focus*: Detect cardiac issues such as arrhythmias or structural abnormalities.  
+- *Recommendations*: Cardiovascular testing, monitoring, and management strategies.  
 
-Focus: Identify psychological conditions (e.g., panic disorder, anxiety).
-Recommendations: Therapy, stress management, or medication adjustments.
-3. Pulmonologist Agent
+**2. Psychologist Agent**  
+- *Focus*: Identify psychological conditions (e.g., panic disorder, anxiety).  
+- *Recommendations*: Therapy, stress management, or medication adjustments.  
 
-Focus: Assess respiratory causes for symptoms (e.g., asthma, breathing disorders).
-Recommendations: Lung function tests, breathing exercises, respiratory treatments.# AI-Health-Assitant
+**3. Pulmonologist Agent**  
+- *Focus*: Assess respiratory causes for symptoms (e.g., asthma, breathing disorders).  
+- *Recommendations*: Lung function tests, breathing exercises, respiratory treatments.  
